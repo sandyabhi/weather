@@ -1,0 +1,23 @@
+.Weather{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    justify-content:space-evenly;
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.winfo{
+    text-align: center;
+    padding-top: 23px;
+    font-size: 30px;
+    font-weight: 700;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.welement{
+    text-align: center;
+}

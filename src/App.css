@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(236, 234, 241);
+}
+
+.App{
+    background-color: rgb(161, 161, 161);
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    box-shadow: 1px 1px 15px 11px rgb(42, 42, 43);
+    margin:30px;
+    width:80%;
+}
+
+.error{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.Appmain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

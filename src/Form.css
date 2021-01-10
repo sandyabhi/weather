@@ -1,0 +1,32 @@
+.Form{
+padding-top: 25px;
+padding-bottom: 10px;
+display: flex;
+flex :1;
+justify-content: center;
+align-items: center;
+}
+
+input{
+    font-size: 18px;
+    outline: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bttn{
+        font-size: 18px;
+        font-weight: 500;
+        border-color: rgb(45, 7, 63);
+        border-radius: 4px;
+        background-color: rgb(219, 215, 215);
+        color:rgb(3, 0, 5);
+        width: 100px;
+        text-align: center;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        cursor: pointer;
+}
+
+.bttn:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(71, 14, 97);
+}

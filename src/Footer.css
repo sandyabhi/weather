@@ -1,0 +1,16 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    padding:10px;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+  }
+
+  a{
+    color: cornflowerblue;
+    text-decoration: none;
+}

@@ -1,0 +1,8 @@
+.Clock{
+    text-align: center;
+    font-size: 80px;
+    padding-top: 35px;
+    font-weight: 800;
+    color: rgb(41, 39, 39);
+    text-shadow: 0 0 3px #8a0a0a, 0 0 5px #34045c;
+}
